@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @houhuawei23
-- 👀 I’m interested in MachineLearning and HPC.
-- 🌱 I’m currently learning the fundamental of ML and the Data structures and algorithms.
+- 👋 Hi, I’m **Huawei Hou**, a junior majoring in computer science.
+- 👀 I’m interested in **System Software** (OS, Compiler) and **Artificial Intelligence**.
+- 🌱 I’m currently learning how to build a compiler system from scratch.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail to me 2589622350@qq.com
 
