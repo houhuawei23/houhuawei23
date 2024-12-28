@@ -10,20 +10,20 @@
     </a>
 </div>
 
-- 👋 Hi, I’m **Huawei Hou**, a junior majoring in computer science.
-- 👀 I’m interested in **Swarm UAV**, **System Software** (OS, Compiler) and **Artificial Intelligence**.
-- 🌱 I’m currently learning:
+- :wave: Hi, I’m **Huawei Hou**, a junior majoring in computer science.
+- :eyes: I’m interested in **Swarm UAV**, **System Software** (OS, Compiler) and **Artificial Intelligence**.
+- :seedling: I’m currently learning:
   - how to build a compiler system from scratch (using Rust!).
   - how to design and implement a task assignment algorithm for heterogeneous unmanned systems based on alliance game.
-- 💞️ I’m looking to collaborate on:
+- :revolving_hearts: I’m looking to collaborate on:
   - compiler design in rust
   - task assignment algorithm for heterogeneous unmanned systems (may be mostly on c++?)
-- 📫 How to reach me:
+- :mailbox_with_mail: How to reach me:
 
   - mail to me: <a href="mailto:houhuawei666@nudt.edu.cn">school-mail</a> or <a href="mailto:2589622350@qq.com">qq-email</a> or <a href="mailto:huaweihou86@gmial">gmail</a>.
 
-- 📈 my github stats (using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-- 📊 my top language (hide `html` and `jupyter-notebook`)
+- :chart_with_upwards_trend: my github stats (using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+- :bar_chart: my top language (hide `html` and `jupyter-notebook`)
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
@@ -36,13 +36,13 @@
 <img align="center" style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=houhuawei23" alt="houhuawei23" />
 </p>
 
-- 🐍 my github contribution grid snake (using [generate-snake-game-from-github-contribution-grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid))
+- :snake: my github contribution grid snake (using [generate-snake-game-from-github-contribution-grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid))
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/houhuawei23/houhuawei23/output/github-contribution-grid-snake.svg" alt="houhuawei23" />
 </p>
 
-- 📕 my pinned repositories
+- :closed_book: my pinned repositories
   - I record nearly or my learning notes in [houhuawei23/Notes](https://github.com/houhuawei23/Notes), you can check and use it.
   - [nudt-sysyc-csc2024](https://github.com/houhuawei23/nudt-sysyc-csc2024) is the refactor repository of our csc-2024 compiler design contest.
     - its `/docs` have a lot useful information, e.g. antlr4, riscv, llvm-ir, compiler-design and so on. (all recorded in the process of the contest)
@@ -65,7 +65,48 @@
 </a>
 </p>
 
-<!---
+- :hammer: Tech Stack
+  - I am familiar with the following technologies and tools, and I also recommend them to you :blush: .
+
+<br>
+
+<p align="center" style="width: 80%;">
+    <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+    width="70" height="70" />
+    </a>
+    <a href="https://rust-lang.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust"
+    width="70" height="70" />
+    </a>
+    <a href="https://debian.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian"
+    width="70" height="70" />
+    </a>
+    <a href="https://llvm.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg" alt="llvm"
+    width="70" height="70" />
+    </a>
+    <a href="http://cppreference.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"
+    width="70" height="70" />
+    </a>
+    <a href="https://pytorch.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch"
+    width="70" height="70" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"
+    width="70" height="70" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"
+    width="70" height="70" />
+    </a>
+</p>
+
+
+<!--- 
 houhuawei23/houhuawei23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
