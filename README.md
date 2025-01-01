@@ -25,9 +25,7 @@
 :mailbox_with_mail: How to reach me:
 - mail to me: <a href="mailto:houhuawei666@nudt.edu.cn">school-mail</a> or <a href="mailto:2589622350@qq.com">qq-email</a> or <a href="mailto:huaweihou86@gmial">gmail</a>.
 
-:chart_with_upwards_trend: my github stats (using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-
-:bar_chart: my top language (hide `html` and `jupyter-notebook`)
+:chart_with_upwards_trend: my _github stats_ (by [this](https://github.com/anuraghazra/github-readme-stats)) and _top language_ (hide `html` and `jupyter-notebook`)
 
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
@@ -40,14 +38,14 @@
 <img align="center" style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=houhuawei23" alt="houhuawei23" />
 </p>
 
-:snake: my github contribution grid snake (using [generate-snake-game-from-github-contribution-grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid))
+:snake: my github contribution grid snake (by [this](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid))
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/houhuawei23/houhuawei23/output/github-contribution-grid-snake.svg" alt="houhuawei23" />
 </p>
 
 :closed_book: my pinned repositories
-  - I record nearly or my learning notes in [houhuawei23/Notes](https://github.com/houhuawei23/Notes), you can check and use it in [here](https://houhuawei23.github.io/Notes/).
+  - I record nearly all my learning notes in [houhuawei23/Notes](https://github.com/houhuawei23/Notes), you can check and use it in [here](https://houhuawei23.github.io/Notes/).
   - [nudt-sysyc-csc2024](https://github.com/houhuawei23/nudt-sysyc-csc2024) is the refactor repository of our csc-2024 compiler design contest.
     - its `/docs` have a lot useful information, e.g. antlr4, riscv, llvm-ir, compiler-design and so on. (all recorded in the process of the contest)
 
@@ -97,7 +95,7 @@ Typst Templates:
 
 <p align="center">
 <a href="https://github.com/abnerhexu/nudt-paper-typst">
-   <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=abnerhexu&repo=nudt-paper-typst" />
+   <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=abnerhexu&repo=nudt-paper-typst&show_owner=true" />
 </a>
 <a href="https://github.com/houhuawei23/resume_template_typst">
    <img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=houhuawei23&repo=resume_template_typst" />
