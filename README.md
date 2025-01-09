@@ -1,7 +1,3 @@
-<p align="center">
-   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm Hou Huawei!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
 <p align="center" >
    <a href="https://github.com/houhuawei23"><img src="https://img.shields.io/badge/GitHub-houhuawei23-blue?logo=github" />
    </a>
