@@ -42,7 +42,7 @@
 
 <p align="center" style="width: 100%;">
    <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=houhuawei23&theme=transparent&hide_border=true&layout=compact" />
-   <img align="center" style="width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houhuawei23&theme=transparent&layout=compact&hide=html,jupyter%20notebook&hide_border=true"/>
+   <img align="center" style="width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houhuawei23&theme=transparent&layout=compact&hide=html,jupyter%20notebook,makefile&hide_border=true"/>
 </p>
 
 :snake: my github contribution (by [snake](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid))
